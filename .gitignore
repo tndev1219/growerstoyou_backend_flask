@@ -1,0 +1,9 @@
+*.pyc
+env/
+.terraform
+.env
+env.ini
+local/
+.vscode
+venv
+.migrations
